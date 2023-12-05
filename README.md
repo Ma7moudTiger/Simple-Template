@@ -4,4 +4,3 @@ gg
 s
 d
 ss
-s
